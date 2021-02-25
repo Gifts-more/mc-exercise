@@ -1,5 +1,10 @@
 # Changes
 
+1. line of code for  merging conflict, that Ahmad added.
+2. I'm suhib, I've deledted testind word. why suhib?
+3. I'm Mohammad, I made some changes.
+
+
 
 1. adding a line of code for testing merging conflict.
 **this is the first time to try marge the conflicte**, hello guys✌ 
@@ -16,4 +21,3 @@ added from git hub
 
 1. adding a line of code for  merging conflict.
 2. I'm suhib, I've deledted testind word.
-
